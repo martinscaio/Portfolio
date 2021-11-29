@@ -16,6 +16,7 @@ Uma parte da Ciência Política tem procurado incluir cada vez mais o uso da est
 
 O curso de Ciências Sociais na FFLCH-USP possui uma disciplina obrigatória sobre introdução a estatística. Curiosamente, não me interessei muito pela área nesta disciplina. 
 
-Foi somente na aplicação prática na Ciência Política que despertou o interesse.
+Foi somente com a necessidade de aplicação prática na Ciência Política que me despertou o interesse.
 
-Em meados 2019 e 2020 fui estagiário na área de Inteligência de Mercado. A minha rotina consistia em análise de dados, análise de pricing, construção de metas comerciais e estudos de mercado. Aprendi muito durante esse estágio, mas sentia falta de aprofundar meus conhecimentos em R/Python, análises estatísticas. 
+Em meados de 2019 e 2020 fui estagiário na área de Inteligência de Mercado. A minha rotina consistia em análise de dados, pricing, construção de metas comerciais e estudos de mercado. 
+Aprendi muito durante o estágio, mas sentia falta de aprofundar meus conhecimentos em R/Python, análises estatísticas. Optei, então, por me desligar da empresa e focar os estudos na área de data science, assim como ampliar meus conhecimentos em programação, dados e afins.
