@@ -35,7 +35,7 @@ Segue os projetos abaixo com um resumo e o link para o repositório.
 Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto em Python como em R
 
 
-* ** Projeto - Eleições em SP - **
+* **Projeto - Eleições em SP**
 
       O objetivo principal deste projeto era plotar os resultados eleitorais por zona eleitoral no mapa
       
@@ -48,7 +48,7 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
 
 
 
-* ** Projeto - Georreferenciamento de dados - **
+* **Projeto - Georreferenciamento de dados**
 
       Neste projeto georreferenciei e plotei os cinemas na cidade de São Paulo
       
