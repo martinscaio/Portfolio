@@ -35,9 +35,9 @@ Segue os projetos abaixo com um resumo e o link para o repositório.
 Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto em Python como em R
 
 
-* **Projeto - Eleições em SP**
+* **Projeto - Eleições em SP** [projeto](https://github.com/martinscaio/Elections)
 
-      O objetivo principal deste projeto era plotar os resultados eleitorais por zona eleitoral no mapa
+      Este projeto busca analisar e plotar os resultados eleitorais por zona eleitoral da cidade de São Paulo
       
       - Data Visualization
       - EDA
