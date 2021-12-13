@@ -24,10 +24,10 @@ Foi somente com a necessidade da aplicação prática na iniciação científica
 Em meados de 2019 e 2020 fui estagiário na área de Inteligência de Mercado. A minha rotina consistia em análise de dados, pricing, construção de metas comerciais e estudos de mercado. 
 Aprendi muito sobre o mercado educaional durante o estágio, mas sentia falta de aprofundar meus conhecimentos em R/Python e análises estatísticas. Optei, então, por desligar-me da empresa e focar os estudos na área de data science, assim como ampliar meus conhecimentos em programação, dados e afins.
 
-* Habilidades: *
 
- *Techs & tools*: R, Python & SQL
 
+* Techs & tools: R, Python & SQL
+* Email para contato: mcaio96@gmail.com
 
 # Meus projetos
 
