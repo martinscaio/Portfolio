@@ -56,6 +56,21 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       - Limpeza de dados
       
       Linguagem utilizada: R
+      
+    
+    
+    
+* **Projeto - Modelo de Regressão** [Clique aqui para ir ao projeto](https://github.com/martinscaio/Linear-Regression-with-Scikit-Learn)
+
+      Modelo de regressão para prever os preços de venda de carros usados
+      
+      - EDA
+      - Limpeza de dados
+      - Feature engineering
+      - Linear Regression
+      - Modelagem
+      
+      Linguagem utilizada: Python
 
 
 
