@@ -99,6 +99,16 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       Linguagem utilizada: Python
      
 
+* **Projeto - Jogos Olímpicos** [Clique aqui para ir ao projeto](https://github.com/martinscaio/Predicting-Income)
+     
+      Neste projeto busco analisar a participação das mulheres ao longo das edições, assim como analisar o share de medalhas entre os países. Em todas edições dos jogos olimpicos sabemos que EUA, China e Russia serão os 3 países que mais conquistaram medalhas. Será que o share de medalhas pertencentes aos 3 primeiros colocados caiu ao longo das edições ?
+      
+      - EDA
+      - Limpeza de dados
+      - Data Visualization
+      
+      Linguagem utilizada: Python
+
 
 
 
