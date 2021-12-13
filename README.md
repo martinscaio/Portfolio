@@ -35,9 +35,9 @@ Segue os projetos abaixo com um resumo e o link para o repositório.
 Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto em Python como em R
 
 
-* **Projeto - Eleições em SP** [projeto](https://github.com/martinscaio/Elections)
+* **Projeto - Eleições em SP** [Clique aqui para ir ao projeto](https://github.com/martinscaio/Elections)
 
-      Este projeto busca analisar e plotar os resultados eleitorais por zona eleitoral da cidade de São Paulo
+      Este projeto busca analisar e plotar os mapas eleitorais da cidade de São Paulo
       
       - Data Visualization
       - EDA
@@ -48,9 +48,9 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
 
 
 
-* **Projeto - Georreferenciamento de dados**
+* **Projeto - Georreferenciamento de dados** [Clique aqui para ir ao projeto](https://github.com/martinscaio/cinema)
 
-      Neste projeto georreferenciei e plotei os cinemas na cidade de São Paulo
+      Este projeto busca georreferenciar dados com o R. Utilizei os dados/endereços sobre cinema na cidade de São Paulo
       
       - Data Visualization
       - Limpeza de dados
