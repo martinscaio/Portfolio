@@ -71,9 +71,33 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       - Modelagem
       
       Linguagem utilizada: Python
+      
 
 
-
+* **Projeto - Modelo de Classificação** [Clique aqui para ir ao projeto](https://github.com/martinscaio/Bank-Churn-Prediction)
+     
+      Modelo de classificação para prever churn      
+      - EDA
+      - Limpeza de dados
+      - Feature engineering
+      - Random Forest
+      - Modelagem
+      
+      Linguagem utilizada: Python
+      
+      
+* **Projeto - Modelo de Classificação** [Clique aqui para ir ao projeto](https://github.com/martinscaio/Predicting-Income)
+     
+      Modelo de classificação para prever se o salário/ano irá ultrapassar 50K
+      
+      - EDA
+      - Limpeza de dados
+      - Feature engineering
+      - Random Forest
+      - Modelagem
+      
+      Linguagem utilizada: Python
+     
 
 
 
