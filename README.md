@@ -111,6 +111,19 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       Linguagem utilizada: Python
 
 
+* **Projeto - [Modelo de Classificação](https://github.com/martinscaio/Predicting-Income)** 
+     
+      Modelo de classificação para prever os clientes que podem abandonar os serviços de cartão de crédito.
+      
+      - EDA
+      - Limpeza de dados
+      - Feature engineering
+      - Random Forest
+      - Decision Tree
+      - Modelagem
+      - Tuning
+      
+      Linguagem utilizada: R (tidymodels)
 
 
 
