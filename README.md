@@ -61,7 +61,8 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
     
     
     
-* **Projeto - [Modelo de Regressão](https://github.com/martinscaio/Linear-Regression-with-Scikit-Learn)**
+* **Projeto - [Modelo de Regressão Linear](https://github.com/martinscaio/Linear-Regression-with-Scikit-Learn)**
+ 
  Modelo de Regressão para prever os preços de venda de carros usados. Neste projeto criei o modelo tanto em Python, utilizando o Scikit-learn, como em R, utilizando o Tidymodels.
 
       - Feature engineering
