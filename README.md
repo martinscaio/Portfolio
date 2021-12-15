@@ -62,16 +62,15 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
     
     
 * **Projeto - [Modelo de Regressão](https://github.com/martinscaio/Linear-Regression-with-Scikit-Learn)**
+ Modelo de Regressão para prever os preços de venda de carros usados. Neste projeto criei o modelo tanto em Python, utilizando o Scikit-learn, como em R, utilizando o Tidymodels.
 
-      Modelo de regressão para prever os preços de venda de carros usados
-      
-      - EDA
-      - Limpeza de dados
       - Feature engineering
       - Linear Regression
       - Modelagem
-      
-      Linguagem utilizada: Python
+      - EDA
+      - Limpeza de dados
+         
+      Linguagem utilizada: Python(Scikit-Learn) & R(Tidymodels)
       
 
 
