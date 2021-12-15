@@ -63,7 +63,7 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
     
 * **Projeto - [Modelo de Regressão Linear](https://github.com/martinscaio/Linear-Regression-with-Scikit-Learn)**
  
- Modelo de Regressão para prever os preços de venda de carros usados. Neste projeto criei o modelo tanto em Python, utilizando o Scikit-learn, como em R, utilizando o Tidymodels.
+ Modelo de Regressão para prever os preços de venda de carros usados.  Neste projeto criei um modelo utilizando Python e dependencias, e outro utilizando o R e suas dependencias
 
       - Feature engineering
       - Linear Regression
@@ -75,16 +75,17 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       
 
 
-* **Projeto - [Modelo de Classificação](https://github.com/martinscaio/Bank-Churn-Prediction)** 
+* **Projeto - [Modelo de Classificação - Random Forest](https://github.com/martinscaio/Bank-Churn-Prediction)** 
      
-      Modelo de classificação para prever churn      
-      - EDA
-      - Limpeza de dados
+     Modelo de classificação para prever os clientes propensos a deixar o serviço de cartão de crédito. Neste projeto também criei um modelo utilizando Python e dependencias, e outro utilizando o R e suas dependencias
+            
       - Feature engineering
       - Random Forest
       - Modelagem
-      
-      Linguagem utilizada: Python
+      - EDA
+      - Limpeza de dados
+            
+      Linguagem utilizada: Python(Scikit-Learn) & R(Tidymodels)
       
       
 * **Projeto - [Modelo de Classificação](https://github.com/martinscaio/Predicting-Income)** 
@@ -111,7 +112,7 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       Linguagem utilizada: Python
 
 
-* **Projeto - [Modelo de Classificação](https://github.com/martinscaio/Predicting-Income)** 
+* **Projeto - [Modelo de Classificação ](https://github.com/martinscaio/Predicting-Income)** 
      
       Modelo de classificação para prever os clientes que podem abandonar os serviços de cartão de crédito.
       
