@@ -47,24 +47,9 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       Linguagens utilizada: R
 
 
-
-
-* **Projeto - [Dashboard](https://github.com/martinscaio/covid19)** 
-     
-     Dashboard para acompanhar a evolução da Covid-19 em alguns municipios no Estado de São Paulo. A ideia desse Dashboard foi somente para aprender Shiny/Flexdashboard no R
-      
-      
-      - EDA
-      - Limpeza de dados
-      - Shiny
-      - Flexdashboard
-           
-      Linguagem utilizada: R
-
-
         
     
-* **Projeto - [Modelo de Regressão Linear](https://github.com/martinscaio/Linear-Regression-with-Scikit-Learn)**
+* **Projeto - [Predicting Selling Price - Regression Problems](https://github.com/martinscaio/Predicting_selling-price)**
  
  Modelo de Regressão para prever os preços de venda de carros usados.  Neste projeto criei um modelo utilizando Python e dependencias, e outro utilizando o R e suas dependencias
 
@@ -78,7 +63,7 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       
 
 
-* **Projeto - [Modelo de Classificação - Random Forest](https://github.com/martinscaio/Bank-Churn-Prediction)** 
+* **Projeto - [Bank Churn Prediction - Classification Problems](https://github.com/martinscaio/Bank-Churn-Prediction)** 
      
      Modelo de classificação para prever os clientes propensos a deixar o serviço de cartão de crédito. Neste projeto também criei um modelo utilizando Python e dependencias, e outro utilizando o R e suas dependencias
             
@@ -91,6 +76,32 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       Linguagem utilizada: Python(Scikit-Learn) & R(Tidymodels)
       
       
+      
+* **Projeto - [Jogos Olímpicos](https://github.com/martinscaio/Jogos-Olimpicos)** 
+     
+      Neste projeto busco analisar a participação das mulheres ao longo das edições, assim como analisar o share de medalhas entre os países. Será que o share de medalhas pertencente aos 3 primeiros colocados caiu ao longo das edições ?
+      
+      - EDA
+      - Limpeza de dados
+      - Data Visualization
+      
+      Linguagem utilizada: Python
+
+      
+ 
+* **Projeto - [Dashboard](https://github.com/martinscaio/covid19)** 
+     
+     Dashboard para acompanhar a evolução da Covid-19 em alguns municipios no Estado de São Paulo. A ideia desse Dashboard foi somente para aprender Shiny/Flexdashboard no R
+      
+      
+      - EDA
+      - Limpeza de dados
+      - Shiny
+      - Flexdashboard
+           
+      Linguagem utilizada: R 
+
+
 * **Projeto - [Modelo de Classificação](https://github.com/martinscaio/Predicting-Income)** 
      
       Modelo de classificação para prever se o salário/ano irá ultrapassar 50K
@@ -103,16 +114,6 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       
       Linguagem utilizada: Python
      
-
-* **Projeto - [Jogos Olímpicos](https://github.com/martinscaio/Jogos-Olimpicos)** 
-     
-      Neste projeto busco analisar a participação das mulheres ao longo das edições, assim como analisar o share de medalhas entre os países. Será que o share de medalhas pertencente aos 3 primeiros colocados caiu ao longo das edições ?
-      
-      - EDA
-      - Limpeza de dados
-      - Data Visualization
-      
-      Linguagem utilizada: Python
 
 
 
