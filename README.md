@@ -63,6 +63,21 @@ Os projetos percorrem Machine Learning, ETL, dashboards, análise de dados tanto
       
 
 
+
+* **Projeto - [Dashboard Criminalidade Bairro a Bairro SP](https://github.com/martinscaio/Crimes-SP-Dashboard)** 
+
+      Dashboard desenvolvido com Shiny analisando os dados de criminalidade de SP entre 2018 e 2021
+      
+      - Data Visualization
+      - Dashboard
+      - EDA
+      - Limpeza de dados
+      
+      Linguagens utilizada: R (Shiny e ShinyDashboard)
+
+
+
+
 * **Projeto - [Bank Churn Prediction - Classification Problems](https://github.com/martinscaio/Bank-Churn-Prediction)** 
      
      Modelo de classificação para prever os clientes propensos a deixar o serviço de cartão de crédito. Neste projeto também criei um modelo utilizando Python e dependencias, e outro utilizando o R e suas dependencias
